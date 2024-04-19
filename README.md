@@ -9,7 +9,6 @@
 -  白天上班，晚上写码! 
 -  以喜剧为精神食粮! 喜欢研究、深度思考、分享、交流.
 -  [个人博客](https://www.tometao.tech:8001/)
--  
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></div>
